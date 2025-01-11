@@ -18,4 +18,9 @@ Crypto Search is a modern web application designed to display live cryptocurrenc
 - **Styling**: TailwindCSS, Custom CSS
 
 ## Installation & Setup 💻
-Install dependencies:
+- Install dependencies:
+npm i
+
+- Run the following command:
+  npm rud dev
+
